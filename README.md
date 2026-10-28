@@ -25,14 +25,10 @@ This repository contains simple examples of 20 useful Python string methods.
 - isupper()
 - isspace()
 
+## How to Use
+
+Open `string_methods.py` and run it with Python to see the printed results.
+
 ## Purpose
 
-The purpose of this project is to practice Python string methods
-using simple examples and print statements.
-
-## Topics
-
-- Python Fundamentals
-- String Methods
-- Text Manipulation
-- String Validation
+This project is for practicing Python fundamentals and understanding common string methods through simple examples.
